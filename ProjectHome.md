@@ -1,0 +1,1 @@
+Cliente Web Service para consulta de CEP e envio de SMS usando Java.
